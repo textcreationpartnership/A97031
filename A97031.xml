@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Wallers speech in the House of Commons, on Tuesday the fourth of July, 1643. Being brought to the Barre, and having leave given him by the speaker, to say what hee could for himselfe, before they proceeded to expell him the House. Iuly 14. 1643. Imprimatur, John White.</title>
+            <author>Waller, Edmund, 1606-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97031</idno>
+            <idno type="STC">Wing W523</idno>
+            <idno type="STC">Thomason E60_11</idno>
+            <idno type="STC">ESTC R23547</idno>
+            <idno type="EEBO-CITATION">99872035</idno>
+            <idno type="PROQUEST">99872035</idno>
+            <idno type="VID">155324</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97031)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155324)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E60[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Wallers speech in the House of Commons, on Tuesday the fourth of July, 1643. Being brought to the Barre, and having leave given him by the speaker, to say what hee could for himselfe, before they proceeded to expell him the House. Iuly 14. 1643. Imprimatur, John White.</title>
+                  <author>Waller, Edmund, 1606-1687.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Dexter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerns charges of treason brought against him.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, Edmund, 1606-1687.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155324:1"/>
+            <pb facs="tcp:155324:1" rendition="simple:additions"/>
+            <p>Mr. Wallers SPEECH IN THE HOUSE OF <hi>COMMONS,</hi> On TUESDAY the fourth of <hi>July, 1643.</hi>
+            </p>
+            <p>Being brought to the Barre, and having leave given him by the SPEAKER, to ſay what hee could for himſelfe, before they procee<g ref="char:EOLhyphen"/>ded to expell him the <hi>HOVSE.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>July 14. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>John White.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Dexter. Anne Dom.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:155324:2"/>
+            <pb n="1" facs="tcp:155324:2"/>
+            <head>MR. VVALLERS SPEECH IN THE HOVSE of COMMONS On Tueſday the 4<hi rend="sup">th</hi> of <hi>July, 1643.</hi>
+            </head>
+            <opener>
+               <salute>Mr. SPEAKER.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Acknowledge it a great mercy of God, and a great favour from you, that I am once more ſuffered to behold this Honourable Aſſembly, I mean not to make uſe of it to ſay any thing in my own defence by Juſtification or denyall of what I have done, I have already confeſſed enough to make me appeare, worthy not onely to be put out of this Houſe, but out of the World too. All my humble requeſt to you is that, if I ſeeme to you as unworthy to live, as I doe to my ſelfe, I may have the Honour to receive my death from your owne hands, and not bee expoſed to a Try<g ref="char:EOLhyphen"/>all by the Counſell of Warre: what ever you ſhall thinke me worthy to ſuffer in a Parliamentary way, is not like to finde ſtop any where elſe.</p>
+            <p>This (Sir) I hope you will be pleaſed for your owne ſakes to grant me, who am already ſo miſerable, that nothing can be added to my calamity, but to be made the occaſion of cre<g ref="char:EOLhyphen"/>ating a Preſident to your own diſadvantage; beſides the right
+<pb n="2" facs="tcp:155324:3"/> I may have to this, conſider I beſeech you that the eyes of the world are upon you, you governe in Chiefe, and of you ſhould expoſe your owne members to the puniſhment of o<g ref="char:EOLhyphen"/>thers, it will be thought that you either want Power, or leiſure to chaſtiſe them your ſelves; nor ltt any man deſpiſe the ill conſequence of ſuch a Preſident as this will be, becauſe hee ſeeth not preſently the inconveniences which may enſue: you have many Armies on Foote, and it is uncertaine how long you may have occaſion to uſe them. Souldiers and Com<g ref="char:EOLhyphen"/>manders (though I know well they of the Parliaments Ar<g ref="char:EOLhyphen"/>mie, excell no leſle in modeſty then they doe in Courage) are generally of a Nature ready to pretend to the utmoſt pow<g ref="char:EOLhyphen"/>er of this kind, which they conceive to be due to them, and may be too apt upon any occaſion of diſcontent to make uſe of ſuch a Preſident as this. In this very Parliament you have not bin without ſome taſt of the experience hereof; it is now ſomewhat more than two yeares ſince you had an Army in the North paid and directed by your ſelves, and yet you may be pleaſed to remember they was a conſiderable number of Officers in that Army, which joined in a Petition or Re<g ref="char:EOLhyphen"/>monſtrance to his Houſe taking notice of what ſome of the Members had ſaid as they ſuppoſed to their diſadvantage <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd did little leſſe than require them of you; 'tis true, there had bin ſome tampering with them, but what has happened at one time may wiſely be thought poſible to fall out againe at ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>Sir, I preſume but to point you out the danger; if it be not juſt, I know you will not doe me the wrong to expoſe me to this triall; if it be juſt your Army may another time require the ſame juſtice of you, in their owne behalfe, againſt ſome other Member, who perhaps you would be leſſe willing to part with. Neceſsity has of late forced you into untrodden paths; and in ſuch a caſe as this where you have no preſident of your own, you may not do amiſſe to look abroad upon others States and Senates, which exerciſes the Supreame Power, as you now doe here.</p>
+            <p>I dare confidently ſay you ſhall find none either Antient or Moderne, which ever expoſed any of their owne order to be
+<pb n="3" facs="tcp:155324:3"/> tryed for his life by the Officers of their Armies abroad. for what he did, while he reſided among them in the Senate.</p>
+            <p>Among the Romans the Practice was ſo contrary, that ſome inferiour Officers in their Army farre from the City, having been ſentenced by their Generall or Commanderm chief, as deſerving death by their Diſcipline of nevertheleſſe (becauſe they were Senators) appealed thither, and the cauſe has received a new hearing in the Senate. Not to uſe more words to perſwade you to take heed that you wound not your ſelves thorough my ſides in violating the Pri<g ref="char:EOLhyphen"/>viledges belonging to your own perſons, I ſhall humbly deſire you to conſider likewiſe the nature of my offence. (not but that I ſhould be much aſhamed to ſay any thing in diminution thereof; God knowes 'tis horrid enough for the evill it might have occaſioned) but if you look near it, it may perhaps ap<g ref="char:EOLhyphen"/>pear to be rather a Civill then a Martiall crime<g ref="char:punc">▪</g> and ſo to have Title to a Triall at the Common Law of the Land, there may juſtly be ſome difference put between me and others in this buſineſſe.</p>
+            <p>I have had nothing to doe with the other Army or any in<g ref="char:EOLhyphen"/>tention to begin the offer of violence to any body, It was on<g ref="char:EOLhyphen"/>ly a civill pretence to that which I then fooliſhly conceived to he the right of the ſubject, I humbly refer it to your conſider<g ref="char:EOLhyphen"/>ations, and to your conſciences. I know you: will take care not to ſhed the blood of Warre in Peace, that blood by the law of Warre which hath a right to be tryed by the Law of Peace. For ſo much as concernes my ſelfe and my part in this buſineſſe, (If I were worthy to have any thing ſpoken or pa<g ref="char:EOLhyphen"/>tiently heard in my behalfe) this might truly be ſaid, that I made not this buſineſſe, but found it, twas in other mens hands long before it was brought to me, and when it came I exten<g ref="char:EOLhyphen"/>ded it not but reſtrained it. For the Propoſitions of lecting in part of the Kings Army, or offering violence to the Mem<g ref="char:EOLhyphen"/>bers of this Houſe, I ever diſallowed and utterly rejected them.</p>
+            <p>What it was that moved me to entertaine diſcourſe of this buſineſſe ſo farre as I did, I will tell you ingeniouſly and that rather as a warning for others, than that it make any thing
+<pb n="4" facs="tcp:155324:4"/> For my ſelfe; it was onely impatience of the inconveniences of the preſent Warre, looking on things with a carnall eye, and not minding that which chiefly (if not onely) ought to have been conſidered, the ineſtimable value of the Cauſe you have in hand, the Cauſe of God and of Religion, and the neceſsities you are forced on for the maintenance of the ſame; as a juſt puniſhment for this neglect, it pleaſed God to deſert and ſuffer me with a fatall blindneſſe, to be led on and ingaged in ſuch Counſells as were wholy diſproportioned to the reſt of my life; Theſe (Sir) my owne Conſcience tells me was the cauſe of my life; Theſe (Sir) my owne Conſcience tells me was the cauſe of my failing, and not malice, or any ill ha<g ref="char:EOLhyphen"/>bit of minde, or diſpoſition toward the Common-wealth, or to the Parliament: for from whence ſhould I have it? If you looke on my Birth you will not finde it in my blood: I am of a Stock which hath borne you better fruite if you looke on my education, it hath been almoſt from my child-hood in this Houſe, and among the beſt ſort of men; and for the whole practice of my life till this time, if an other were to ſpeake for me, he might reaſonably ſay, that neither my acti<g ref="char:EOLhyphen"/>ons out of Parliament, nor my expresſions in it, have ſavou<g ref="char:EOLhyphen"/>red of diſtruſt, or malice to the Liberties of the People, or Priviledges of Parliament.</p>
+            <p>Thus Sir I have ſet before your eyes, both my perſon and my caſe, wherein I ſhall make no ſuch defence by denying, or extenuating any thing, I have done, as ordinary Delin<g ref="char:EOLhyphen"/>quents doe, my addreſſe to you, and all my Plea ſhall onely be ſuch as Children uſe to their Parents, I have offended, I confeſle it, I never did any thing like it before; it is a paſſage unſuitable to the whole courſe of my life beſide and for the time to come, as God that can bring light out of darkeneſſe, and hath made this buſineſſe in the event uſefull to you, ſo alſo hath he to me: you have by it made an happy diſcovery of your Enemies, and God of my ſelfe, and the evill princi<g ref="char:EOLhyphen"/>ples I walke by; ſo that if you looke either on what I have been heretofore, or what I now am, and by Gods grace asſi<g ref="char:EOLhyphen"/>ſting me, ſhall alwayes continue to bee, you may perhaps thinke me fit to bee an example of your compasſion and cle<g ref="char:EOLhyphen"/>mency.</p>
+            <pb n="5" facs="tcp:155324:4"/>
+            <p>Sir, I ſhall no ſooner leave you, but my life will depend on your breath, and not that alone, but the ſubſiſtence of ſome that are more innocent. I might therfore ſhew you my Children, whom the rigour of your Juſtice would make compleat Orphanes, being already Motherleſſe. I might ſhew you a Family, wherin there are ſome unworthy to have their ſhare in that marke of Infamy which now threa<g ref="char:EOLhyphen"/>ten us: But ſomthing there is, which if I could ſhew you, would move you more then all this, it is my Heart, which abhorres what I have done more, and is more ſevere to it ſelfe, then the ſevereſt Judge can be. A heart (Mr. Speaker) ſo awakened by this affliction, and ſo intirely devoted to the Cauſe you maintain, that I earneſtly deſire of God to in<g ref="char:EOLhyphen"/>cline you, ſo to diſpoſe of me, whether for life or for death, as may moſt conduce to the advancement therof.</p>
+            <p>Sir, not to trouble you any longer, if I dye, I ſhall dye praying for you; if I live, I ſhall live ſerving you, and render you backe the uſe and imployment of all thoſe dayes you ſhall adde to my life.</p>
+            <p>After this having withdrawn himſelfe, he was called in againe, and (being by the Speaker required therto) gave them an exact account how he came firſt to the know<g ref="char:EOLhyphen"/>ledge of this buſineſſe; as alſo what Lords were ac<g ref="char:EOLhyphen"/>quainted therwith, or had engaged themſelves therin.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
